@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mrinal Kumar Bharati
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Angular Js
-- 💞️ I’m looking to collaborate on ... NA
+- 💞️ I’m looking to collaborate on MEAN stack
 - 📫 How to reach me ... mrinalbharati@live.com
 
 <!---
